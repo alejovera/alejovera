@@ -1,3 +1,6 @@
+<h2> Hi! I'm Alejo Vera </h2>
+### Frontend Developer
+
 
 ```javascript
 const aboutMe = {
