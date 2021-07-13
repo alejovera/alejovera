@@ -1,4 +1,6 @@
 <h2> Hi! I'm Alejo Vera </h2>
+<br> </br>
+
 ### Frontend Developer
 
 
