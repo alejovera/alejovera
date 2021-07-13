@@ -28,5 +28,5 @@ const aboutMe = {
  </p>
  
  ### Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejovera0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejovera&show_icons=true)
 
