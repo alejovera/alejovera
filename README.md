@@ -16,5 +16,14 @@ const aboutMe = {
    challenge: "Apply all my knowledge on a job",
 };
 ```
+<h2 align="center">You can reach me at :star:</h2>
 
+<p align="center">
+  
+
+  <a href="https://www.linkedin.com/in/alejo-vera/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alejo Vera's LinkedIn Profile" height="30" width="30">
+  </a>
+
+ </p>
 
