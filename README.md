@@ -26,4 +26,9 @@ const aboutMe = {
   </a>
 
  </p>
+ 
+ ### Github Stats
+
+[![Alejo Vera GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/alejovera)
+
 
