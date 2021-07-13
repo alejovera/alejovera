@@ -16,7 +16,7 @@ const aboutMe = {
    challenge: "Apply all my knowledge on a job",
 };
 ```
-<h2 align="center">You can reach me at :star:</h2>
+<h2 align="center">You can reach me at: :star:</h2>
 
 <p align="center">
   
