@@ -2,7 +2,7 @@
 
 ### Frontend Developer
 
-A brief introduction
+A brief introduction...
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
