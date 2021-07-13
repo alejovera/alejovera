@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**alejovera/alejovera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ```javascript
 const aboutMe = {
@@ -21,4 +17,4 @@ const aboutMe = {
 };
 ```
 
--->
+
